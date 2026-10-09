@@ -1,1 +1,1 @@
-{"name":"jay-meth-game","version":"1.0.0","private":true,"type":"module","scripts":{"test":"node tests/math.test.mjs","serve":"python -m http.server 4173 --directory dist"}}
+{"name":"jay-meth-game","version":"1.0.0","private":true,"type":"module","scripts":{"test":"node tests/all.test.mjs","serve":"python -m http.server 4173 --directory dist"}}
